@@ -23,11 +23,11 @@
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
         <!-- Small logo -->
         <div class="sidebar-brand-icon">
-            <img class="logo" src="{{ asset('fieldy-logo-sm.png') }}" alt="logo" style="width:50px;">
+            <img class="logo" src="{{ asset('logo-sm.png') }}" alt="logo" style="width:50px;">
         </div>
         <!-- Large logo -->
         <div class="sidebar-brand-text mx-3">
-            <img class="logo" src="{{ asset('fieldy-logo.png') }}" alt="logo" style="width:100px;">
+            <img class="logo" src="{{ asset('logo.png') }}" alt="logo" style="width:100px;">
         </div>
     </a>
 
